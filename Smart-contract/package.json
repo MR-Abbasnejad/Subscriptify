@@ -1,0 +1,34 @@
+{
+  "name": "gic",
+  "version": "1.0.0",
+  "description": "A window to the future",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0-Behnam-0/GIC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0-Behnam-0/GIC/issues"
+  },
+  "homepage": "https://github.com/0-Behnam-0/GIC#readme",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "@openzeppelin/contracts": "^4.8.3",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.14.0",
+    "hardhat-deploy": "^0.11.26",
+    "hardhat-deploy-ethers": "^0.3.0-beta.13",
+    "hardhat-ethers": "^1.0.1"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
